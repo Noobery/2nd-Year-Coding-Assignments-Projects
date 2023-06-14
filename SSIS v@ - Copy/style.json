@@ -1,0 +1,293 @@
+{
+	"ShowLogs": true,
+	"QMainWindow":[
+		{
+			"tittle":"Julia I love you"
+		}
+	],
+	"QSettings":[
+		{
+			"ThemeSettings":[
+				{
+					"CustomTheme":[
+						
+                    ]
+                }
+			],
+			"AppSettings":{
+				"OrginizationName": "Spinn Company",
+				"ApplicationName": "22-MODERN UI",
+				"OrginizationDormain": "spinntv.com"
+			}
+		}
+	],
+	"QPushButtonGroup": [{
+		"Buttons": [
+			"addStudent",
+			"addCourse",
+			"deleteStudentBtn",
+			"deleteCourseBtn",
+			"aboutButton"
+
+			],
+				"Style": [
+					{
+				"Active": "background-color: #1b1b27; border-left: 3px solid #F9F7F7; font-weight: bold;",	
+				"NotActive": "background-color: transparent; border: none;"
+				}
+			]
+		}
+	],
+	"QCustomSlideMenu": [
+		{
+		"name": "leftMenu",
+		"defaultSize": [{
+			"width": 0,
+			"height": "parent"
+		}],
+		"collapsedSize": [{
+			"width": 0,
+			"height": "parent"
+		}],
+		"expandedSize": [{
+			"width": 200,
+			"height": "parent"
+		}],
+		"toggleButton": [{
+			"buttonName": "menuButton",
+			"icons": [{
+				"whenMenuIsCollapsed": "/Users/Asus/Desktop/SSIS v@/Resource/whiteMenu.png",
+				"whenMenuIsExpanded": "/Users/Asus/Desktop/SSIS v@/Resource/expandLeft.png"
+			}]
+		}],
+		"menuTransitionAnimation": [{
+			"animationDuration": 500,
+			"animationEasingCurve": "Linear"
+			
+				}
+			]
+		
+		
+		},
+		{
+			"name": "rightMenu_2",
+			"defaultSize": [{
+				"width": 0,
+				"height": "parent"
+			}],
+			"collapsedSize": [{
+				"width": 0,
+				"height": "parent"
+			}],
+			"expandedSize": [{
+				"width": 200,
+				"height": "parent"
+			}],
+			"toggleButton": [{
+				"buttonName": "addCourseButton",
+				"icons": [{
+					"whenMenuIsCollapsed": "/Users/Asus/Desktop/SSIS v@/Resource/course.png",
+					"whenMenuIsExpanded": "/Users/Asus/Desktop/SSIS v@/Resource/course.png"
+				}]
+			}],
+			"menuTransitionAnimation": [{
+				"animationDuration": 500,
+				"animationEasingCurve": "Linear"
+				
+					}
+				]
+			
+			
+			},
+			{
+				"name": "rightMenu_3",
+				"defaultSize": [{
+					"width": 0,
+					"height": "parent"
+				}],
+				"collapsedSize": [{
+					"width": 0,
+					"height": "parent"
+				}],
+				"expandedSize": [{
+					"width": 200,
+					"height": "parent"
+				}],
+				"toggleButton": [{
+					"buttonName": "deleteButton",
+					"icons": [{
+						"whenMenuIsCollapsed": "/Users/Asus/Desktop/SSIS v@/Resource/whiteDelete.png",
+						"whenMenuIsExpanded": "/Users/Asus/Desktop/SSIS v@/Resource/whiteDelete.png"
+					}]
+				}],
+				"menuTransitionAnimation": [{
+					"animationDuration": 500,
+					"animationEasingCurve": "Linear"
+					
+						}
+					]
+				
+				
+				},
+			
+			{
+				"name": "rightMenu_4",
+				"defaultSize": [{
+					"width": 0,
+					"height": "parent"
+				}],
+				"collapsedSize": [{
+					"width": 0,
+					"height": "parent"
+				}],
+				"expandedSize": [{
+					"width": 200,
+					"height": "parent"
+				}],
+				"toggleButton": [{
+					"buttonName": "deleteCourseBTN",
+					"icons": [{
+						"whenMenuIsCollapsed": "/Users/Asus/Desktop/SSIS v@/Resource/whiteDelete.png",
+						"whenMenuIsExpanded": "/Users/Asus/Desktop/SSIS v@/Resource/whiteDelete.png"
+					}]
+				}],
+				"menuTransitionAnimation": [{
+					"animationDuration": 500,
+					"animationEasingCurve": "Linear"
+					
+						}
+					]
+				
+				
+				},
+				{
+					"name": "rightMenu_5",
+					"defaultSize": [{
+						"width": 0,
+						"height": "parent"
+					}],
+					"collapsedSize": [{
+						"width": 0,
+						"height": "parent"
+					}],
+					"expandedSize": [{
+						"width": 200,
+						"height": "parent"
+					}],
+					"toggleButton": [{
+						"buttonName": "editStudentButton",
+						"icons": [{
+							"whenMenuIsCollapsed": "/Users/Asus/Desktop/SSIS v@/Resource/whiteEdit.png",
+							"whenMenuIsExpanded": "/Users/Asus/Desktop/SSIS v@/Resource/whiteEdit.png"
+						}]
+					}],
+					"menuTransitionAnimation": [{
+						"animationDuration": 500,
+						"animationEasingCurve": "Linear"
+						
+							}
+						]
+					
+					
+					},
+					{
+						"name": "rightMenu_6",
+						"defaultSize": [{
+							"width": 0,
+							"height": "parent"
+						}],
+						"collapsedSize": [{
+							"width": 0,
+							"height": "parent"
+						}],
+						"expandedSize": [{
+							"width": 200,
+							"height": "parent"
+						}],
+						"toggleButton": [{
+							"buttonName": "editCourseButton",
+							"icons": [{
+								"whenMenuIsCollapsed": "/Users/Asus/Desktop/SSIS v@/Resource/whiteEdit.png",
+								"whenMenuIsExpanded": "/Users/Asus/Desktop/SSIS v@/Resource/whiteEdit.png"
+							}]
+						}],
+						"menuTransitionAnimation": [{
+							"animationDuration": 500,
+							"animationEasingCurve": "Linear"
+							
+								}
+							]
+						
+						
+						},
+			{
+				"name": "rightMenu",
+				"defaultSize": [{
+					"width": 0,
+					"height": "parent"
+				}],
+				"collapsedSize": [{
+					"width": 0,
+					"height": "parent"
+				}],
+				"expandedSize": [{
+					"width": 200,
+					"height": "parent"
+				}],
+				"toggleButton": [{
+					"buttonName": "showAdd",
+					"icons": [{
+						"whenMenuIsCollapsed": "/Users/Asus/Desktop/SSIS v@/Resource/addUser.png",
+						"whenMenuIsExpanded": "/Users/Asus/Desktop/SSIS v@/Resource/addUser.png"
+					}]
+				}],
+				"menuTransitionAnimation": [{
+					"animationDuration": 500,
+					"animationEasingCurve": "Linear"
+					
+						}
+					]
+				
+				
+				}
+	],
+	"QStackedWidget":[
+		{
+			"name":"mainPages",
+			"transitionAnimation":[
+				{
+					"fade":[
+						{
+							"active": true,
+							"duration":500,
+							"easingCurve": "OutBack"
+						}
+					],
+					"slide":[
+						{
+							"active":true,
+							"duration": 500,
+							"direction": "horizontal",
+							"easingCurve": "OutBack"
+						}
+					]
+				}
+			],
+			"navigation":[
+				{
+					"navigationButtons":[
+						{
+							"addStudent": "AstudentPage",
+							"addCourse": "coursePage",
+							"deleteStudentBtn": "deleteStudentPage",
+							"deleteCourseBtn": "deleteCoursePage",
+							"aboutButton": "aboutPage"
+						}
+					]
+				}
+			]
+	
+		}
+	]
+		
+}
