@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1683765076 source:c:\users\asus\documents\alrick things\programming\simple student\main.cpp
-	<iostream>
-	<fstream>
-	<string>
-	<conio.h>
-
